@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Matias Garcia Gudin",
+    "label": "",
+    "picture": "",
+    "email": "matiasgudin@gmail.com",
+    "phone": "0221 455-0208",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "39 #628 1/2 dpto 1",
+      "postalCode": "1900",
+      "city": "La Plata",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "chudix",
+      "url": "https://github.com/chudix"
+    }]
+  },
+  "work": [{
+    "company": "Ensolvers",
+    "position": "Jr. Frontend Developer",
+    "website": "",
+    "startDate": "2018-08",
+    "endDate": "2018-12",
+    "summary": "Fui contratado en la posicion de Jr. Frontend Developer enfoaco al desarrollo mobile utilizando React Native casi en su totalidad y pequenios desarrollos en java y swift para funcionalidades especificas dependientes de la plataforma. \n Otras tecnologias aplicadas fueron docker y firebase. Se utilizo Jira para la planificacion y Scrum como metodologia de desarrollo"
+  },{
+    "company": "La cultural agenda",
+    "position": "Full Stack Developer",
+    "website": "www.laculturalagenda.com.ar",
+    "startDate": "2016-06",
+    "endDate": "2016-12",
+    "summary": "Fue un proyecto freelance donde fui contraado para desarrollar una aplicacion web en forma de agenda cultural y buscador de propuestas gastronomicas de la ciudad de La Plata.\n Conformamos un grupo de trabajo de tres desarrolladores donde me desempenie como FullStack Developer.\n El proyecto fue realizado en Python/Django con PostgreSQL como dbms en el backend; Bootstrap, Jquery y Less en el frontend. Se utilizo scrum como metodologia de desarrollo y Trello para la planificacion.\n Nota: Actualmente la aplicacion se encuentra offline. Snapshots estan disponibles en: https://cutt.ly/mcjyufJ"
+  }],
+  "education": [{
+    "institution": "Colegio Nacional \"Rafael Hernandez\" - U.N.L.P",
+    "area": "Bachiller",
+    "studyType": "Secundario",
+    "endDate": "2003"
+  },{
+    "institution": "Facultad de Ciencias Astronomicas y Geofisicas - U.N.L.P",
+    "area": "Geofisico",
+    "studyType": "Universitario",
+    "startDate": "2004",
+    "endDate": "2013"
+  },{
+    "institution": "Facultad de Informatica - U.N.L.P",
+    "area": "Licenciado en Sistemas",
+    "studyType": "Universitario",
+    "startDate": "2012",
+    "endDate": "Actual"
+  },{
+    "institution": "Facultad de Informatica - U.N.L.P",
+    "area": "Analista Programador Universitario",
+    "studyType": "Terciario",
+    "startDate": "2016",
+    "endDate": "Actual"
+  }],
+  "skills": [{
+    "name": "shell scripting",
+    "level": "intermedio",
+    "keywords": [
+      "bash",
+      "python"
+    ]
+  },{
+    "name": "Automatizacion",
+    "level": "basico",
+    "keywords": [
+      "ansible"
+
+    ]
+  },{
+    "name": "GNU/Linux",
+    "level": "Intermedio",
+    "keywords": [
+      "Debian",
+      "Archlinux",
+      "Ubuntu"
+    ]
+  },{
+    "name": "Contenedores",
+    "level": "Basico",
+    "keywords": [
+      "Docker"
+    ]
+  },{
+    "name": "vcs",
+    "level": "Intermedio",
+    "keywords": [
+      "GIT"
+    ]
+  }],
+  "languages": [{
+    "language": "Ingles",
+    "fluency": "Intermedio"
+  }]
+}
